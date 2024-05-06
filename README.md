@@ -1,4 +1,4 @@
-# DDS-TPdePares
+# DDS-TPCuidemonos
 
 Integrantes:
 * Jimena Cori
